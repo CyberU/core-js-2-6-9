@@ -51,7 +51,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zloirock/core-js.git"
+    "url": "https://github.com/CyberU/core-js-2-6-9.git"
   },
   "scripts": {
     "bootstrap": "lerna bootstrap --no-ci",
