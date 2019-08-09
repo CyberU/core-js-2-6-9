@@ -1,4 +1,5 @@
 {
+  "name": "core-js-2-6-9"
   "devDependencies": {
     "@babel/cli": "^7.5.5",
     "@babel/core": "^7.5.5",
